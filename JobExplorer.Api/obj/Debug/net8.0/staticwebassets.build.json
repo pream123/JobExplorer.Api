@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FJr6tPye69oS0EyUi0Z8wSFoCrMtDP3clMqPYL1OtYY=",
+  "Source": "JobExplorer.Api",
+  "BasePath": "_content/JobExplorer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
